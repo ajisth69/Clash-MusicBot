@@ -2,7 +2,7 @@
 
 > **A high-performance, visually stunning Telegram Voice Chat streamer.**
 
-[![GitHub Stars](https://img.shields.io/github/stars/ajisth/clash-music?style=for-the-badge&color=ffd700)](https://github.com/ajisth/Clash-MusicBot)
+[![GitHub Stars](https://img.shields.io/github/stars/ajisth/clash-music?style=for-the-badge&color=ffd700)](https://github.com/ajisth69/Clash-MusicBot)
 [![Node.js Version](https://img.shields.io/badge/node.js-v20%2B-green?style=for-the-badge&logo=node.js)](https://nodejs.org)
 [![Telegram](https://img.shields.io/badge/Telegram-Bot%20API-blue?style=for-the-badge&logo=telegram)](https://t.me/BotFather)
 
