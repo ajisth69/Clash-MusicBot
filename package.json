@@ -1,0 +1,21 @@
+{
+  "name": "clash-music",
+  "version": "2.0.0",
+  "description": "telegram music bot - jiosaavn + clashdb",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js",
+    "session": "node get-session.js"
+  },
+  "author": "ajisth",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.0",
+    "grammy": "^1.30.0",
+    "input": "^1.0.1",
+    "node-fetch": "^2.7.0",
+    "telegram": "^2.26.0",
+    "tgcallsjs": "^1.0.5"
+  }
+}

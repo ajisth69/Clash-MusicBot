@@ -1,0 +1,23 @@
+services:
+  - type: worker
+    name: clash-music
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: BOT_TOKEN
+        sync: false
+      - key: API_ID
+        sync: false
+      - key: API_HASH
+        sync: false
+      - key: OWNER_ID
+        sync: false
+      - key: STRING_SESSION
+        sync: false
+      - key: CLASH_DB_URL
+        sync: false
+      - key: CLASH_DB_KEY
+        sync: false
+      - key: LOG_CHANNEL
+        sync: false
